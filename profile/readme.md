@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ideacat.ro" target="_blank"><img src="https://github.com/ideacatlab/.github/blob/main/docs/images/github-logo.png?raw=true" width="400"></a></p>
+<p align="center"><a href="https://ideacat.ro" target="_blank"><img src="https://raw.githubusercontent.com/ideacatlab/.github/master/docs/images/github-logo.png" width="400"></a></p>
 
 ## About IdeaCat
 
